@@ -1,0 +1,37 @@
+# Autres projets personnels
+api_livres/
+banque_4.0/
+gestionaire_bibliotheque/
+gestionair_d'utilisateur/
+gestionaire_de_banque/
+gestionaire de note/
+projet_pro/
+web_scraper_prix/
+
+# Fichiers personnels à la racine
+ATM pro.py
+essaie2.py
+projet telephonic.py
+tache.txt
+todolist.py
+todolist_pro.py
+tokens
+scraping_prix v2 -- the comeback/fichier_telegram
+# Python
+__pycache__/
+*.py[cod]
+
+# Environnements
+.venv/
+
+# Bases de données
+*.db
+
+# Secrets
+.env
+# Fichiers générés par le scraper
+scraping_prix v2 -- the comeback/app.log
+scraping_prix v2 -- the comeback/bonne_affaire.json
+scraping_prix v2 -- the comeback/historique_prix.json
+scraping_prix v2 -- the comeback/produits.json
+scraping_prix v2 -- the comeback/fichier_telegram
